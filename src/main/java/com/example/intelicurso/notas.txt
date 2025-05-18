@@ -1,0 +1,11 @@
+.-CREAR UN MODELO QUE PUEDA ALMACENAR PROPIEDADES
+.-CON EL AUTOCOMPLETE DE INTELLIJ FUE FÁCIL Y RÁPIDO :D
+.- Un @RestController que maneje las peticiones HTTP <- Esto, pero necesita una Ruta
+.- La ruta es @RequestMapping("/api/usuario")
+.-Agregar los usuarios a una lista
+.-¿Funcionará lo segerido por la IA?
+.-Hasta ahora todo OK, usemos el cliente HTTP de INTELLIJ
+.-FUNCIONÓ!!!
+.-Probar con CURL. En windows a su modo funcionó :3
+Es todo.
+El código se encuentra en: https://github.com/emtt/intelicurso
